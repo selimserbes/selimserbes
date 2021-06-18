@@ -1,4 +1,4 @@
-### Hi 👋 I'm Selim
+<h2 align="center">Hi 👋, I'm Selim</h2>
 
 <h3>I'm 3rd grade computer engineering student at Dokuz Eylül University.</h3>
 
