@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋, I'm Selim</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=20C20E&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I%27m+Selim+Serbes!;" />
+</h1>
 
 <h3>I graduated from Dokuz Eylül University's Department of Computer Engineering.</h3>
 
