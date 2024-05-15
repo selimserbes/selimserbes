@@ -3,9 +3,8 @@
 </h1>
 
 <h3 align="center">A passionate Software Engineer from Vestel</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkcWU1YmpnbXVsMWxlNTJoanZ4NzBjaHhxYTFqa2dtNnZnNnBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" align="right" alt="">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimserbes&label=Profile%20views&color=0e75b6&style=flat" alt="selimserbes" /> </p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkcWU1YmpnbXVsMWxlNTJoanZ4NzBjaHhxYTFqa2dtNnZnNnBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" align="right" alt="">
 
 - 🔭 I’m currently working on **autonomous vehicles and IoT projects**
 
