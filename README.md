@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00C6FF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I%27m+Selim+Serbes!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00A450&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I%27m+Selim+Serbes!;" />
 </h1>
 
 <h3 align="center">A passionate Software Engineer from Vestel</h3>
