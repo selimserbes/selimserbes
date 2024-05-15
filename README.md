@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omnicoder.ceng@gmail.com**
 
-- I use Arch Linux btw and Neovim for my IDE
+- I use **Arch Linux** btw and **Neovim** for my IDE
   * <a href="#">Arch Linux dotfiles</a> (Coming soon)
   * [Neovim configuration](https://github.com/selimserbes/nvim)
 
