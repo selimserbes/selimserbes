@@ -29,7 +29,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,arch,neovim,bash,powershell,github,git,postman,notion,obsidian,raspberrypi&perline=18)](https://skillicons.dev)
 
-<hr>
+<h1></h1>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=selimserbes&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
