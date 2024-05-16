@@ -23,11 +23,11 @@
 
 <h3 align="left">Languages and Technologies:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,py,nextjs,postgres,react,ts,js,html,css,tailwind,qt,lua,wasm&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,py,nextjs,postgres,electron,react,ts,js,html,css,tailwind,qt,lua,wasm&perline=18)](https://skillicons.dev)
 
 <h3 align="left">Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,arch,neovim,bash,powershell,git,postman,notion,obsidian,raspberrypi&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,arch,neovim,bash,powershell,github,git,postman,notion,obsidian,raspberrypi&perline=18)](https://skillicons.dev)
 
 <hr>
 <p align="center">
