@@ -31,5 +31,5 @@
 
 <h1></h1>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=selimserbes&theme=vue-dark" alt="GitHub Streak">
+  <img src="https://nirzak-streak-stats.vercel.app?user=selimserbes&theme=vue-dark&hide_border=true" alt="GitHub Streak">
 </p>
