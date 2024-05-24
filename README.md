@@ -14,7 +14,7 @@
 
 - 💻 I use **Arch Linux** btw and **Neovim** for my IDE
   * <a href="#">Arch Linux dotfiles</a> (Coming soon)
-  * [Neovim configuration](https://github.com/selimserbes/nvim)
+  * [Neovim configuration](https://github.com/selimserbes/nvim-for-windows)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
