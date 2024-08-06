@@ -21,18 +21,13 @@
 <a href="https://linkedin.com/in/selimserbes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selimserbes" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Technologies:</h3>
+<h1 align="left">Languages and Technologies:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=go,rust,py,nextjs,postgres,electron,react,ts,js,html,css,tailwind,qt,lua,wasm&perline=18)](https://skillicons.dev)
 
-<h3 align="left">Tools:</h3>
+<h1 align="left">Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,arch,neovim,bash,powershell,github,git,postman,notion,obsidian,raspberrypi&perline=18)](https://skillicons.dev)
-
-<h1></h1>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=selimserbes&theme=vue-dark&hide_border=true" alt="GitHub Streak">
-</p>
 
 ###
 
