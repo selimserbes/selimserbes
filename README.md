@@ -25,9 +25,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,rust,py,nextjs,postgres,electron,react,ts,js,html,css,tailwind,qt,lua,wasm&perline=18)](https://skillicons.dev)
 
-<h1 align="left">Tools:</h3>
+<div align="left">Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,arch,neovim,bash,powershell,github,git,postman,notion,obsidian,raspberrypi&perline=18)](https://skillicons.dev)
+
+</div>
 
 ###
 
