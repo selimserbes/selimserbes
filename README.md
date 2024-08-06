@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/selimserbes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selimserbes" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">Languages and Technologies:</h3>
+<h3 align="left">Languages and Technologies:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=go,rust,py,nextjs,postgres,electron,react,ts,js,html,css,tailwind,qt,lua,wasm&perline=18)](https://skillicons.dev)
 
@@ -37,6 +37,6 @@
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selimserbes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" align="left" height="175" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=selimserbes&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=selimserbes&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" align="right" height="175" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=selimserbes&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
