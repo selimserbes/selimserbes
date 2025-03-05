@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimserbes&label=Profile%20views&color=0e75b6&style=flat" alt="selimserbes" /> </p>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkcWU1YmpnbXVsMWxlNTJoanZ4NzBjaHhxYTFqa2dtNnZnNnBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" align="right" alt="">
 
-- 🔭 I’m currently working on **autonomous vehicles and IoT projects**
+- 🔭 I’m currently working on **IoT projects**
 
 - 🌱 I’m currently learning **DevOps tools to streamline development processes**
 
@@ -23,11 +23,11 @@
 
 <h3 align="left">Languages and Technologies:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,py,nextjs,postgres,electron,react,ts,js,html,css,tailwind,qt,lua,wasm&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,py,nextjs,electron,react,postgres,ts,js,html,css,tailwind,qt,lua,wasm&perline=18)](https://skillicons.dev)
 
 <h3 align="left">Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,arch,neovim,bash,powershell,github,git,postman,notion,obsidian,raspberrypi&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,rabbitmq,docker,kubernetes,jenkins,linux,arch,neovim,bash,powershell,github,git,postman,obsidian,raspberrypi&perline=18)](https://skillicons.dev)
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
