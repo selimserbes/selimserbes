@@ -27,7 +27,7 @@
 
 <h3 align="left">Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=redis,rabbitmq,docker,kubernetes,jenkins,linux,arch,neovim,bash,powershell,github,git,postman,obsidian,raspberrypi&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,redis,rabbitmq,jenkins,linux,arch,neovim,bash,powershell,github,git,postman,obsidian,raspberrypi&perline=18)](https://skillicons.dev)
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
